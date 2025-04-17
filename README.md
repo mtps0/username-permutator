@@ -9,7 +9,7 @@ A flexible tool for generating username or email permutations based on full name
 This script is built for:
 
 - Username enumeration during internal/external assessments
-- Generating email wordlists for password spraying
+- Generating wordlists for password spraying
 - Creating realistic user/email lists for OSINT
 
 ---
